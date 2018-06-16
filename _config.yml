@@ -1,6 +1,6 @@
 # Site settings
-title: Npyl's Universum
-description: "My site!"
+title: npyl's Universum
+description: "My site"
 url: "https://npyl.github.io"
 author:
   name: "Nickolas Pylarinos"
@@ -10,10 +10,10 @@ author:
 # Build settings
 markdown: kramdown
 source: .
-destination: ./_site
-permalink: /:title
+destination: ./emerald/_site
+permalink: /emerald/:title
 paginate: 8
-paginate_path: /page:num/
+paginate_path: /emerald/page:num/
 
 # Default values
 defaults:
