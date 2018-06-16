@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+    <channel>
+        <title>Manage Conky Changelog</title>
+        <link>https://npyl.github.io/Projects/ManageConky/appcast.xml</link>
+        <description>Most recent changes with links to updates.</description>
+        <language>en</language>
+        <item>
+            <title>Version 0.6 (Alot Features)</title>
+            <sparkle:releaseNotesLink>
+                https://npyl.github.io/Projects/ManageConky/releaseNotes.html
+            </sparkle:releaseNotesLink>
+            <pubDate>Sat, 19 May 2018 01:21:00 +0000</pubDate>
+            <enclosure url="https://npyl.github.io/Projects/ManageConky/Releases/Manage Conky_v0.6.zip"
+            sparkle:version="0.6"
+            sparkle:dsaSignature="MEUCIQDSG3gwG8Hf5gQI+m6iAe4Etz8SE6BT/SlOn63fRP3A6wIgW4tHrd5x9xQsPFdTq77dE+ybR/TRGQLNi7/h+54Pxlg="
+            length="1623481"
+            type="application/octet-stream" />
+        </item>
+    </channel>
+</rss>
