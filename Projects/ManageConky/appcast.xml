@@ -6,14 +6,14 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.7 (Alot Features / Major Improvements)</title>
+            <title>Version 0.8 (Alot Features / Major Improvements)</title>
             <sparkle:releaseNotesLink>
                 https://npyl.github.io/Projects/ManageConky/releaseNotes.html
             </sparkle:releaseNotesLink>
             <pubDate>Sun, 17 Jun 2018 01:21:00 +0000</pubDate>
-            <enclosure url="https://npyl.github.io/Projects/ManageConky/Release/Manage Conky_v0.7.zip"
-            sparkle:version="0.7"
-            sparkle:dsaSignature="MEUCIFYPt000vN9gW9GgaEWfI3n/8NF11MbTAAcS0D/2I4IAAiEAzRtL9f44RFmuM27ehplQHupTUskI4MImrC7bevaP5eQ="
+            <enclosure url="https://npyl.github.io/Projects/ManageConky/Release/Manage Conky_v0.8.zip"
+            sparkle:version="0.8"
+            sparkle:dsaSignature="MEQCIGFJkPNyYGHf3HlO3H9k/9KsmkWrIrj8i2vyUjBPWywTAiAfWQ2+AO4YI+bUCVzqMnopsQBLIw7TZI1tuczzectxVg=="
             length="1623481"
             type="application/octet-stream" />
         </item>
