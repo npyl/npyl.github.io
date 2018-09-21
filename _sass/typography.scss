@@ -3,6 +3,10 @@
 // Based on the typographic scale: 12, 14, 16, 18, 21, 24, 36, 48, 60, 72.
 //
 
+.text-justify {
+  text-align: justify;
+}
+
 body {
 	font-family: 'Source Sans Pro', sans-serif;
 	letter-spacing: 0.01em;
