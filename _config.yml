@@ -1,10 +1,10 @@
 # Site settings
 title: npyl's Universum
-description: "My site"
+description: "npyl's site"
 url: "https://npyl.github.io"
 author:
   name: "Nickolas Pylarinos"
-  email: "ulcheats@gmail.com"
+  email: "pylarinosnick@gmail.com"
   url: "https://npyl.github.io"
 
 # Build settings
