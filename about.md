@@ -23,3 +23,7 @@ and this is what I know:
 Email: [pylarinosnick@gmail.com](mailto:pylarinosnick@gmail.com)
 
 [GitHub](https://github.com/npyl)
+
+### Donate
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NSV636CUWX754)
