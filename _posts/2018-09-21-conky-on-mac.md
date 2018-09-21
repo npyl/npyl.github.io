@@ -1,4 +1,4 @@
-*Everything began with my encounter with Linux. ...Then it all happened fast*
+<span style="color:blue">*Everything began with my encounter with Linux. ...Then it all happened fast*</span>
 
 I grasped the idea of having conky on the mac -for the first time- when I was 14 years old.  Back then I had too little knowledge of programming languages and computers in general.  All I could do was visualise how awesome would it be using it on the platform I loved.  It didn't just start there though.
 
@@ -18,6 +18,6 @@ For all those geeks out there who came from Linux to macOS and miss their belove
 
 ## Links
 
-conky for macOS: https://github.com/Conky-for-macOS/conky-for-macOS
+conky for macOS: [https://github.com/Conky-for-macOS/conky-for-macOS](https://github.com/Conky-for-macOS/conky-for-macOS)
 
-ManageConky: https://github.com/Conky-for-macOS/Manage-Conky
+ManageConky: [https://github.com/Conky-for-macOS/Manage-Conky](https://github.com/Conky-for-macOS/Manage-Conky)
