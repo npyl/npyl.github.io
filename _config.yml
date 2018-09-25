@@ -1,5 +1,5 @@
 # Site settings
-title: npyl's Universum
+title: npyl's
 description: "npyl's site"
 url: "https://npyl.github.io"
 author:
@@ -29,7 +29,7 @@ plugins:
   - jekyll-paginate
 
 # Custom variables
-version: "0.1"
+version: "0.2"
 
 # Options
 reverse: false
