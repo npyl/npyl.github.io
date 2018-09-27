@@ -247,10 +247,17 @@ code {
 
 /* Footer */
 
+#left {
+  float:left;
+}
+
+#right {
+ float:right;
+}
+
 footer {
   background-color: $main-color;
   color: $background-color;
-  text-align: right;
   position: fixed;
   bottom: 0px;
   width: 100%;
