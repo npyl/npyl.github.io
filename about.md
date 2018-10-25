@@ -2,11 +2,12 @@
 layout: page
 title: About npyl
 ---
-## About Me
 
-Hey !!								<br>
+<a href="https://en.wikipedia.org/wiki/Tokyo_Ghoul"><img src="img/kaneki.jpeg" alt="me" style="width:400px;height:400px;"></a>
 
-I am npyl	;						<br>
+Hey !!<br>
+
+I am npyl	;<br>
 I am a student at CEID (Computer Engineering and Informatics Department) at UPatras, Greece,
 and this is what I know:
 
@@ -15,6 +16,7 @@ and this is what I know:
 - Objective-C
 - Some Python
 - Less Swift
+- ...
 
 ### Tools
 - Xcode
@@ -27,4 +29,10 @@ Email: [pylarinosnick@gmail.com](mailto:pylarinosnick@gmail.com)<br>
 
 ### Donate
 
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NSV636CUWX754)
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NSV636CUWX754">
+	<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" align="left">
+</a>
+
+<br>
+<br>
