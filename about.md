@@ -22,16 +22,15 @@ and this is what I know:
 - Xcode
 
 ### Contact
-Email: [pylarinosnick@gmail.com](mailto:pylarinosnick@gmail.com)<br>
-<a href="https://twitter.com/npyl_cheated?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @npyl_cheated</a>
-<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script><br>		
-[GitHub](https://github.com/npyl)
+
+[pylarinosnick@gmail.com](mailto:pylarinosnick@gmail.com)<br>
+<a href="https://twitter.com/npyl_cheated?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @npyl_cheated</a><br>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<a href="https://github.com/npyl"><img src="img/GitHub-Mark-32px.png" align="left"></a><br>
 
 ### Donate
 
-<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NSV636CUWX754">
-	<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" align="left">
-</a>
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NSV636CUWX754"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" align="left"></a>
 
 <br>
 <br>

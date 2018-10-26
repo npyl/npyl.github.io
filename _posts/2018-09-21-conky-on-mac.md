@@ -12,7 +12,7 @@ Fast forward 4 years and there it was: conky was making its first steps into the
 conky was officially ported to macOS at **4 July 2018**, when [my first pull request](https://github.com/brndnmtthws/conky/pull/480) was merged into upstream bringing basic compatibility with macOS.
 {: .text-justify}
 
-One thing brought the other and one year later from the day I began the port, conky supported multi-core CPU statistics, memory statistics and all many some cool macOS-specific features.
+One thing brought the other and one year later from the day I began the port, conky supported multi-core CPU statistics, memory statistics and some cool macOS-specific features.
 {: .text-justify}
 
 This is how it looks right now:

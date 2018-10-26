@@ -26,4 +26,4 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(mc
 
 ## Links
 
-ManageConky: [https://github.com/Conky-for-macOS/Manage-Conky](https://github.com/Conky-for-macOS/Manage-Conky)
+[https://github.com/Conky-for-macOS/Manage-Conky](https://github.com/Conky-for-macOS/Manage-Conky)
