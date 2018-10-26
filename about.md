@@ -8,7 +8,7 @@ title: About npyl
 Hey !!<br>
 
 I am npyl	;<br>
-I am a student at CEID (Computer Engineering and Informatics Department) at UPatras, Greece,
+I am a student at <a href="https://www.ceid.upatras.gr/">CEID</a> (Computer Engineering) at UPatras, Greece,
 and this is what I know:
 
 ### Languages
@@ -29,10 +29,14 @@ Email: [pylarinosnick@gmail.com](mailto:pylarinosnick@gmail.com)<br>
 
 ### Donate
 
-
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NSV636CUWX754">
 	<img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" align="left">
 </a>
+
+<br>
+<br>
+
+<a>PS: This is not me, this is just Kaneki</a>
 
 <br>
 <br>
