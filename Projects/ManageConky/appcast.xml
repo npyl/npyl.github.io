@@ -6,14 +6,14 @@
         <description>Most recent changes with links to updates.</description>
         <language>en</language>
         <item>
-            <title>Version 0.9.3</title>
+            <title>Version 0.9.5</title>
             <sparkle:releaseNotesLink>
                 https://npyl.github.io/Projects/ManageConky/releaseNotes.html
             </sparkle:releaseNotesLink>
-            <pubDate>Wed, 10 October 2018 21:33:00 +0000</pubDate>
-            <enclosure url="https://npyl.github.io/Projects/ManageConky/Release/Manage Conky_v0.9.3.dmg"
-            sparkle:version="0.9.3"
-            sparkle:dsaSignature="MEQCIB1OftpJXT4MhZ7QvTj6EkFn1q8yeoRpzFaQ7jUyCHfZAiAvO2WvFIDLHE3pYsYB630MCFB6DHj4rTSc2sKUloTZmg=="
+            <pubDate>Tue, 30 October 2018 21:33:00 +0000</pubDate>
+            <enclosure url="https://npyl.github.io/Projects/ManageConky/Release/Manage Conky_v0.9.5.dmg"
+            sparkle:version="0.9.5"
+            sparkle:dsaSignature="MEQCIBXi4zbQhvp6LNTlCx3iiNC2jqpksRx/ySagKQgHLF4pAiApWRNelD3ICD1s9L7AkICypV04ynr7+XezNTRV4LYLxQ=="
             length="1623481"
             type="application/octet-stream" />
         </item>
