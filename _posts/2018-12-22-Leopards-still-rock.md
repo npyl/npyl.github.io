@@ -1,16 +1,34 @@
 <span style="color:blue">*What if I told you I still like to tinker with Leo?*</span>
 
-I'm currently installing MacOS X Leopard 10.5.2 on an old 2003 Dell Latitude D505.  Can you believe it? This lappy still works... I only had to replace a CMOS battery to get it back to life.  This is going to be a tinkertosh (the hackintosh/macintosh used for tinkering with cool stuff).
+I'm currently installing OS X Leopard 10.5.2 on an old 2003 [Dell Latitude D505](https://www.cnet.com/products/dell-latitude-d505/specs/).  Can you believe it? This lappy still works... I only had to replace a CMOS battery to get it back to life.  This is going to be a tinkertosh (the hackintosh/macintosh used for tinkering with cool stuff).
 {: .text-justify}
 
-It's outdated as hell (although its windows vista era, in the apple word this means it has become obsolete 4-5 times now. :D ).
+The OS is outdated as hell (although it's windows vista era, in the apple-world this means it's like it has become obsolete 4-5 times up until now. :D ).
 {: .text-justify}
 
-<span style="color:red">*More coming soon...*</span>
+## Update #1
+
+Got the OS installed and [patched](), and also installed [TenFourFox FPR10](https://www.floodgap.com/software/tenfourfox/) (which had an Intel build) and [Tigerbrew](https://github.com/mistydemeo/tigerbrew).
+{: .text-justify}
+
+Got the necessary [dependencies](https://github.com/Conky-for-macOS/conky-for-macOS/wiki/Build#%EF%B8%8F-installing-requirements) for conky (some of them didn't succeed OTB but all-in-all with some patching I was able to install them).
+{: .text-justify}
+
+Last step is getting a newer gcc up (7.3.0).
+
+## Update #2
+
+Amazing news! Conky is finally running (for the first time) on OS X Leopard.
+
+![tworks!](../img/it_works.png)
+
+It required waiting for 4+ hours for gcc to compile 😂, (literally) purging the whole Semaphore implementation and patching all `function64` to their 32-bit equivalent (aka. `function`).
+
+I have uploaded a branch called ["leopard"](https://github.com/Conky-for-macOS/conky-for-macOS/tree/_leopard_) in Github, where you can view my patches all of which are quick and dirty and would break the compilation on new macOS.
 
 ### Technical Details
-This is a Kalyway 10.5.2 iso.  If you used to tinker with hackintoshing in the old days, you should have realised its Kalyway  from the OS version I chose to install (= 10.5.2). 😂
+This is a *Kalyway 10.5.2* iso.  If you used to tinker with hackintoshing back in the old days, you should have realised it is *Kalyway* from the OS version which I purposely mentioned above. 😂
 
-## Links
+## Useful Links
 
 [my-guide](https://npylhackintosh.wordpress.com/2014/07/02/kal1052-dld505/)
