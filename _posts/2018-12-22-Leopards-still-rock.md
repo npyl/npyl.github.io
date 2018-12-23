@@ -26,6 +26,9 @@ It required waiting for 4+ hours for gcc to compile 😂, (literally) purging th
 
 I have uploaded a branch called ["leopard"](https://github.com/Conky-for-macOS/conky-for-macOS/tree/_leopard_) in Github, where you can view my patches all of which are quick and dirty and would break the compilation on new macOS.
 
+Next step is... probably getting the Semaphore class working again or some of functionality working...<br>
+<span style="color:red">*To be continued...*</span>
+
 ### Technical Details
 This is a *Kalyway 10.5.2* iso.  If you used to tinker with hackintoshing back in the old days, you should have already realised it is *Kalyway* from the OS version which I purposely mentioned above. 😂
 
