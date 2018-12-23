@@ -6,6 +6,8 @@ I'm currently installing MacOS X Leopard 10.5.2 on an old 2003 Dell Latitude D50
 It's outdated as hell (although its windows vista era, in the apple word this means it has become obsolete 4-5 times now. :D ).
 {: .text-justify}
 
+<span style="color:red">*More coming soon...*</span>
+
 ### Technical Details
 This is a Kalyway 10.5.2 iso.  If you used to tinker with hackintoshing in the old days, you should have realised its Kalyway  from the OS version I chose to install (= 10.5.2). 😂
 
