@@ -43,4 +43,4 @@ You can find the dll I used in [my dropbox](https://www.dropbox.com/s/13s4rl4lfn
 {: .text-justify}
 
 That's all!
-(The sound is kinda cranky but it's the best we have. Happy gaming.)
+(The sound is kinda cranky but it's the best we have. Happy Roming.)
