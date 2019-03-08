@@ -20,6 +20,7 @@ and this is what I know:
 
 ### Tools
 - Xcode
+- CLion
 
 ### Contact
 
