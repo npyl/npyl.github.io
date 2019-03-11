@@ -29,13 +29,16 @@ and this is what I know:
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://github.com/npyl"><img src="img/GitHub-Mark-32px.png" align="left"></a><br>
 
-### Donate
+### Donate / Support
 
 <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=NSV636CUWX754"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" align="left"></a>
 
 <br>
 <br>
+<a href="https://www.patreon.com/bePatron?u=11783784" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
 
+<br>
+<br>
 <a>PS: This is not me, this is just Kaneki</a>
 
 <br>
