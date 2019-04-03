@@ -14,6 +14,7 @@ and this is what I know:
 ### Languages
 - C/C++
 - Objective-C
+- Java
 - Some Python
 - Less Swift
 - ...
