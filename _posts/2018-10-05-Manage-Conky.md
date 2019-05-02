@@ -7,7 +7,7 @@ running them at login, configuring Xquartz for better UX and more...
 
 Check it out!
 
-![mc](https://raw.githubusercontent.com/Conky-for-macOS/Manage-Conky/master/preview.svg?sanitize=true)
+![mc](https://raw.githubusercontent.com/Conky-for-macOS/Manage-Conky/master/preview.jpg)
 
 <div id="wpac-rating"></div>
 <script type="text/javascript">
