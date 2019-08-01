@@ -20,11 +20,9 @@
     <!-- Main content -->
 	  <div id="container">
 		  
-		<main>
-
-			{{ content }}
-
-	  </main>
+      <main>
+        {{ content }}
+      </main>
 		
 		  <!-- Pagination links -->
       {% if paginator.total_pages > 1 %}
@@ -56,12 +54,12 @@
         {% endif %}
 
 	  </div>
-	    
-	    <!-- Footer -->
-      {% include footer.html %}
 
-	    <!-- Script -->
-      {% include script.html %}
+    <!-- Footer -->
+    {% include footer.html %}
+
+    <!-- Script -->
+    {% include script.html %}
 
 	</div>
 </body>
