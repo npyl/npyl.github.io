@@ -7,8 +7,8 @@ title: About npyl
 
 Hey !!<br>
 
-I am npyl	;<br>
-I am a Computer Engineering student at <a href="https://www.ceid.upatras.gr/">CEID</a>, University of Patras, Greece,
+I am Nick ;<br>
+A Computer Engineering student at <a href="https://www.ceid.upatras.gr/">CEID</a>, University of Patras, Greece,
 and this is what I know:
 
 ### Languages
