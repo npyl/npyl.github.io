@@ -25,7 +25,8 @@ and this is what I know:
 
 ### Contact
 
-[pylarinosnick@gmail.com](mailto:pylarinosnick@gmail.com)<br>
+<i>(Remove space between pylarinos and nick):</i><br>
+pylarinos nick AT gmail DOT com<br>
 <a href="https://twitter.com/npyl_cheated?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @npyl_cheated</a><br>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 <a href="https://github.com/npyl"><img src="img/GitHub-Mark-32px.png" align="left"></a><br>
