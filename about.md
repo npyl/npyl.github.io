@@ -41,7 +41,3 @@ pylarinos nick AT gmail DOT com<br>
 
 <br>
 <br>
-<a>PS: This is not me, this is just Kaneki</a>
-
-<br>
-<br>
