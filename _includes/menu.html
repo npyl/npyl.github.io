@@ -3,22 +3,25 @@
 		<a href="/">Home</a>
 
 		<!-- Nav pages -->
-	  {% for page in site.pages %}
-	    {% if page.layout == "page" %}
-	      <a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.title }}">{{ page.title }}</a>
-	    {% endif %}
-	  {% endfor %}
+		{% for page in site.pages %}
+			{% if page.layout == "page" %}
+				<a href="{% if site.baseurl == "/" %}{{ page.url }}{% else %}{{ page.url | prepend: site.baseurl }}{% endif %}" title="{{ page.title }}">{{ page.title }}</a>
+			{% endif %}
+		{% endfor %}
     
-    <!-- Nav links -->
-	  {% include link.html %}
+	    <!-- Nav links -->
+		{% include link.html %}
+
+		<!-- Amazon Affiliate -->
+		<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=8&l=ez&f=ifr&linkID=491eec02c229085d5af11a8920881d9a&t=npylgh0-20&tracking_id=npylgh0-20" width="120" height="240" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0" style="position: absolute; left: 0px"></iframe>
 
 	</div>
   
-  <!-- Nav footer -->
+	<!-- Nav footer -->
 	{% if site.custom_nav_footer == true %}
-	  {% include nav-footer-custom.html %}
+		{% include nav-footer-custom.html %}
 	{% else %}
-	  {% include nav-footer.html %}
+		{% include nav-footer.html %}
 	{% endif %}
 
 </nav>
