@@ -29,7 +29,7 @@ plugins:
   - jekyll-paginate
 
 # Custom variables
-version: "0.2"
+version: "0.3"
 
 # Options
 reverse: true
