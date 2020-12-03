@@ -7,21 +7,21 @@ title: About npyl
 
 Hey !!<br>
 
-I am Nick ;<br>
-A Computer Engineering student at <a href="https://www.ceid.upatras.gr/">CEID</a>, University of Patras, Greece,
-and this is what I know:
+I am Nick,
+I am a student, pursuing a Computer Engineering Integrated Master at <a href="https://www.ceid.upatras.gr/">CEID</a>, University of Patras, Greece, and this is my CV:
 
-### Languages
-- C/C++
-- Objective-C
-- Java
-- Some Python
-- Less Swift
-- ...
+## Programming Languages:
+- C++ (university-taught level)
+- Java (university-taught level)
+- Objective-C (good level)
+- ARM Assembly (good level) as part of University course Computer Architecture I
+- Intel Assembly (ability to at-least read through personal study)
 
-### Tools
+## Tools:
+### IDEs:
+- Visual Studio & Visual Studio Code
+- IntelliJ's CLion & Idea
 - Xcode
-- CLion
 - Eclipse
 
 ### Other tools:
@@ -30,11 +30,11 @@ and this is what I know:
 
 ## Experience:
 - ported an opensource system monitor (conky) to macOS
-- involved good memory management techniques
-- learning about system internals and system APIs to access memory, cpu and disk statistics
-- strict testing with tools such as Xcode's Instruments
+  - involved good memory management techniques
+  - learning about system internals and system APIs to access memory, cpu and disk statistics
+  - strict testing with tools such as Xcode's Instruments
 - creator of opensource project ManageConky (a widget manager for the conky system monitor)
-- involved managing and maintaining C/C++ code amongst with complex build systems (Makefiles/CMake)
+  - involved managing and maintaining C/C++ code amongst with complex build systems (Makefiles/CMake)
 - wrote a small tool for Windows called runnix that interfaced with WSL (a feature of Windows OS) back when there was WSL v1.0 :)
 - with unix based/inspired systems such as GNU/Linux and macOS
 
@@ -67,7 +67,5 @@ pylarinos nick AT gmail DOT com<br>
 
 <br>
 <br>
-<a href="https://www.patreon.com/bePatron?u=11783784" data-patreon-widget-type="become-patron-button">Become a Patron!</a><script async src="https://c6.patreon.com/becomePatronButton.bundle.js"></script>
-
 <br>
 <br>
