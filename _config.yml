@@ -9,11 +9,12 @@ author:
 
 # Build settings
 markdown: kramdown
-source: .
+source: src
 destination: ./emerald/_site
 permalink: /emerald/:title
 paginate: 8
 paginate_path: /emerald/page:num/
+exclude: ['node_modules']
 
 # Default values
 defaults:

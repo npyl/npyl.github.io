@@ -16,8 +16,8 @@
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "./node_modules/.bin/webpack --watch && bundle exec jekyll serve --livereload --incremental",
-    "build": "./node_modules/.bin/webpack | bundle exec jekyll build"
+    "start": "./node_modules/.bin/webpack --watch | jekyll serve --no-watch",
+    "build": "./node_modules/.bin/webpack | jekyll build"
   },
   "repository": {
     "type": "git",
