@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "@babel/core": "^7.12.9",
     "woofmark": "^4.2.6"
   },
   "devDependencies": {
