@@ -3,7 +3,7 @@ const path = require("path");
 module.exports = {
   mode: "production",
   watch: true,
-  entry: path.join(__dirname, "webpack", "main"),
+  entry: path.join(__dirname, "_webpack", "main"),
   output: {
     filename: "[name]-bundle.js",
     path: path.resolve(__dirname, "assets/js"),
@@ -16,9 +16,6 @@ module.exports = {
           path.resolve(__dirname, "node_modules"),
         ],
         loader: "babel-loader",
-        query: {
-          presets: ["env"],
-        },
       },
     ],
   },
