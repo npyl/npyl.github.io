@@ -1,25 +1,20 @@
-const path = require("path");
+const path = require('path');
 
 module.exports = {
-  mode: "production",
-  watch: true,
-  entry: path.join(__dirname, "_webpack", "main"),
-  output: {
-    filename: "[name]-bundle.js",
-    path: path.resolve(__dirname, "assets/js"),
+  entry: {
+    woofmark: path.resolve(__dirname, "_webpack/main.js") 
   },
+  output: {
+    path: path.resolve(__dirname, "src/assets/js")
+  },
+  mode: "production",
   module: {
     rules: [
       {
-        test: /.js$/,
-        exclude: [
-          path.resolve(__dirname, "node_modules"),
-        ],
+        test: /\.jsx?$/,
+        exclude: /(node_modules)/,
         loader: "babel-loader",
-      },
-    ],
-  },
-  resolve: {
-    extensions: [".json", ".js", ".jsx"],
-  },
+      }
+    ]
+  }
 };
