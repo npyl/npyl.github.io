@@ -2,7 +2,7 @@ const path = require('path');
 
 module.exports = {
   entry: {
-    woofmark: path.resolve(__dirname, "_webpack/main.js") 
+    woofmark: path.resolve(__dirname, "_webpack/woofmark.js")
   },
   output: {
     path: path.resolve(__dirname, "src/assets/js")
@@ -11,7 +11,7 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.jsx?$/,
+        test: /\.js?$/,
         exclude: /(node_modules)/,
         loader: "babel-loader",
       }

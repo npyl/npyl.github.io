@@ -1,1 +1,0 @@
-import woofmark from 'woofmark';
