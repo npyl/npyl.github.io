@@ -44,7 +44,7 @@ ul {
 
 input,
 textarea {
-  color: #8e44ad;
+  color: $main-color;
 }
 
 textarea {
@@ -54,7 +54,7 @@ textarea {
 
 button {
   background-color: #ecf0f1;
-  color: #8e44ad;
+  color: $main-color;
   border: 0;
   padding: 18px 12px;
   cursor: pointer;
@@ -63,7 +63,7 @@ button {
 }
 
 button:hover {
-  background-color: #8e44ad;
+  background-color: $main-color;
   color: #ecf0f1;
 }
 
